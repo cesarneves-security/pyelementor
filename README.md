@@ -1,7 +1,7 @@
 # PyElementor
 
 <p align="center">
-  <a href="https://github.com/cesarneves-security/pyelementor.git"><img src="/img/1.png" alt="PyElementor"></a>
+  <a href="https://github.com/cesarneves-security/pyelementor.git"><img src="/img/6.png" alt="PyElementor"></a>
 </p>
 
 
